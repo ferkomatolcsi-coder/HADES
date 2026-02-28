@@ -1,0 +1,8 @@
+hades.db
+hades.db.bak*
+HADES_export_*.xlsx
+__pycache__/
+*.pyc
+.DS_Store
+.Spotlight-V100
+.Trashes
