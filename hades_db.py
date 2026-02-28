@@ -1,6 +1,6 @@
 """
 HADES v2 - hades_db.py
-Core SQLite database module
+Core SQLite database module Omg hogy miket csinálok:)
 Personal file indexer - persistent + version history
 """
 
